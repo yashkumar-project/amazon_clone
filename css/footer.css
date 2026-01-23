@@ -1,0 +1,78 @@
+.fp1 {
+    height: 40px;
+    background-color: #37475A;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+}
+
+.fp2 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #222f3d;
+    color: white;
+    height: 400px;
+}
+
+.fp2 p {
+    font-size: 1rem;
+    font-weight: 650;
+}
+
+ul {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+ul a {
+    margin-top: 10px;
+    font-size: 0.88rem;
+    color: #DDDDDD;
+}
+
+.fp3 {
+    border-top: 0.1px solid rgb(212, 209, 209);
+    height: 70px;
+    background-color: #222f3d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    height: 50px;
+    width: 100px;
+    background-image: url(../images/amz_logo.png);
+    background-size: cover;
+}
+
+.fp4 {
+    height: 80px;
+    background-color: #131A22;
+    color: #DDDDDD;
+    font-size: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ftext a {
+    text-decoration: none;
+    color: #DDDDDD;
+    margin-left: 15px;
+}
+
+.fp4d {
+    margin-top: 5px;
+    margin-bottom: 18px;
+}
+
+.fp4u {
+    margin-top: 13px;
+}

@@ -1,0 +1,15 @@
+.nav_logo {
+    background-color: aqua;
+    height: 50px;
+    width: 114px;
+    align-self: center;
+    margin: 0px 0px 0px 1px;
+    padding: 0px 0px 0px;
+}
+
+#logo {
+    height: 50px;
+    width: 100%;
+    background-image: url(../images/amz_logo.png);
+    background-size: cover;
+}

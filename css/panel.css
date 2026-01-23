@@ -1,0 +1,33 @@
+.panel {
+    height: 40px;
+    background-color: #232F3E;
+    display: flex;
+    color: white;
+    align-items: center;
+    font-size: 1rem;
+    padding-left: 10px;
+}
+
+.center {
+  flex-direction: row;
+  justify-content: center;
+}
+
+.panel-all {
+    height: 40px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    padding: 7px 8px;
+
+}
+
+.panel-ops p {
+    display: inline;
+    width: 100%;
+    padding-left: 5px;
+}
+
+.all {
+    padding-left: 10px ;
+}
